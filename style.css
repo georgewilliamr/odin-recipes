@@ -1,0 +1,16 @@
+#title {
+    background-color: coral;
+    border: 2px solid black;
+    text-align: center;
+    font-family: copperplate;
+    
+}
+
+.centre {
+    text-align: center;
+    background-color: beige;
+}
+
+.no-bullets {
+    list-style-type: none;
+}
