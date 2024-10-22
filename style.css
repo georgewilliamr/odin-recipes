@@ -9,8 +9,13 @@
 .centre {
     text-align: center;
     background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .no-bullets {
     list-style-type: none;
+}
+
+.textborder {
+    border: 2px solid black;
 }
