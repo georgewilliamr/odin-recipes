@@ -20,3 +20,15 @@
     border: 2px solid black;
 }
 
+.box {
+    border-style: ridge;
+    border-color: grey;
+    padding: 8px;
+    margin-top: 15px;
+    border-radius: 15px;
+    
+    
+
+}
+
+
